@@ -1,0 +1,16 @@
+*.pyc
+
+# Pycache for all folders
+__pycache__/
+db/__pycache__/
+models/__pycache__/
+routers/__pycache__/
+services/__pycache__/
+
+
+#Environments
+.venv/
+.env
+.vscode/
+
+# Alem
